@@ -1,13 +1,13 @@
 [README.md.md](https://github.com/user-attachments/files/25199260/README.md.md)
-# Credit Authorities Delegation Letter PDF Template Specification
+# Authorities Delegation Letter PDF Template Specification
 
 ## 1. Scope and Intent
-This specification defines an A4 portrait, print-ready PDF template for internal Credit Authorities delegation letters. It supports delegation flow from Board to Group Chief Risk Officer (GCRO), then via Credit Policy to CROs/staff across risk types and business lines.
+This specification defines an A4 portrait, print-ready PDF template for internal Authorities delegation letters for any generic bank. It supports delegation flow from Board to Group Chief Risk Officer (GCRO), then via Credit Policy to CROs/staff across risk types and business lines.
 
 The template is system-generated, electronically signed, and auditable.
 
 ## 2. Design System Mapping (Derived from Provided PNG)
-Derived and extrapolated visual tokens to align with the Standard Chartered PDF design language shown in the reference:
+Derived and extrapolated visual tokens to align with the PDF design language shown in the reference:
 
 - Primary brand navy: `#0A1F72`
 - Action/section blue: `#005BBB`
